@@ -1,10 +1,10 @@
 # simple-calculator
 my first python project.
-##features
+## features
 -addition
 -subtraction
 -multiplication
 -division
 
-##language
+## language
 -python
